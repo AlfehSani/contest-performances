@@ -2,6 +2,7 @@
 # Team contest 
 | Contest                         | Username      | Rank | Scope        |
 | -------------                   |:-------------:| ---: | ----------:  |
+| [SUST IUPC 2023](https://toph.co/c/sust-inter-university-2023/standings) | Sust_mayhem | 9 | National |
 | [Asia-west Continent Finals 2021](https://codedrills.io/contests/icpc-asia-west-continent-finals-2021/scoreboard) | SUST_Carnage | 29 |International |
 | [Dhaka Regional Contest 2021](https://algo.codemarshal.org/contests/dhaka-21-main/standings) | SUST_Carnage | 5  | National |
 | [ Dhaka Regional Preliminary Contest 2021](https://algo.codemarshal.org/contests/icpc-dhaka-21-preli/standings) | SUST_Carnage | 22  | National |
